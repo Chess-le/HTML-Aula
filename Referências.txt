@@ -1,0 +1,17 @@
+HTML Referências:
+
+A tag <a></a> determina a postagem de um link dentro da página. Precisa ser colocada como uma referência "href" e em seguida digitar um link em aspas, por exemplo: "https://google.com" e colocado um texto que será visivel como o nome do link. Pode ser acompanhado com a referência "tittle" para que, ao passar o mouse por cima, ofereça um texto como guia. Fica então: <a href="https://google.com" title="Ir para o site do google">Ir para o Google</a>
+            
+	"href" pode ser utilizado para navegação de links, telefones e e-mails. Link: <a href="https://google.com"></a> Telefone: <a> href=tel:1133333333></a> 
+	email:<a href="mailto:raposadarksecond@gamil.com"</a>
+
+A tag "<hr />" - Coloca um separador na página;
+A tag "<p>" - Para colocar um parágrafo;
+A tag "<b> ou <strong>" - Para letra em negrito;
+A tag "<i> ou <em>" - Para colocar em itálico;
+A tag "<br />" - Para quebrar uma linha;
+A tag "<mark>" - Para adicionar como se fosse um marca-texto;
+A tag "<del>" - Para marcar um risco na palavra;
+A tag "<small>" - Para diminuir a fonte da letra;
+A tag "<blockquote>" - Aplica espaçamento;
+A tag "<addres>" - Para adicionar um endereço.
