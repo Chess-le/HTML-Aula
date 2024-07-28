@@ -15,3 +15,62 @@ A tag "<del>" - Para marcar um risco na palavra;
 A tag "<small>" - Para diminuir a fonte da letra;
 A tag "<blockquote>" - Aplica espaçamento;
 A tag "<addres>" - Para adicionar um endereço.
+
+
+Containers:
+
+1) <header>: utilizada para criar um cabeçalho. 
+2) <footer>: utilizada para criar um rodapé. 
+3) <main>: utilizada para conter o conteúdo principal da página. 
+4) <aside>: utilizada para construir barras laterais. 
+5) <section>: utilizada para dividir o conteúdo em seções. 
+6) <article>: utilizada para criar artigos e posts. 
+7) <nav>: utilizada para criar menus de navegação.
+
+Para construir uma lista ordenada escrevemos: 
+<ol> 
+	<li>HTML</li> 
+	<li>CSS</li> 
+	<li>JavaScript</li> 
+</ol>
+
+Para construir uma lista não ordenada escrevemos: 
+<ul> 
+	<li>HTML</li> 
+	<li>CSS</li> 
+	<li>JavaScript</li> 
+</ul>
+
+
+Tags para tabela:
+
+Tag "<thead>" - Para criar o cabeçalho de uma tabela.
+Tag "<tr>" - Para adicionar uma linha na TABELA.
+ tr = Table row
+Tag "<th>" - Para criar as colunas da minha tabela.
+Tag "<tbody>" - Para criar o corpo da tabela.
+Tag "<td>" - Para criar as colunas dentro do <tbody>.
+
+
+Tag para criar os formulários - <form>
+Tag <input> - Essa tag será usada com vários atributos diferentes.
+Tag <input type="text" placeholder="Seu nome" /> - Para pessoa digitar seu nome na caixa de texto.
+Tag <label> - Coloca uma "etiqueta" ao lado da caixa de texto.
+A tag <label for="email"> recebe o ID do campo, assim podendo selecionar ele apenas clicando em cima do nome.
+Tag <input type="tel" placeholder="Seu telefone" /> - Serve para quando o site for acessado por um telefone subir o teclado numérico
+Tag <input type="number" max="10" min="2" step"2" /> - Isso cria uma caixa numérica com uma seta que aumentará e diminuirá de 2 em 2.
+Tag <input type="file" /> - Para poder selecionar um arquivo.
+Tag <input type="color" /> - Para criar um campo de seleção de cores.
+<input type="checkbox" id="checkbox-termos" /> <label for="checkbox-termos"> <Aceito os termos </label> - Para criar uma caixa de aceito os termos.
+Tag <input type="radio" /> - Para criar escolhas para uma pergunta.
+
+EX: <input type="radio" name="cor-favorita" /.
+Com esse "name", quando tiver várias escolhas não vai dar bug.
+
+Tag <select> - Dentro da tag <select>
+Use a tag <option> para criar escolhas também.
+Tag <textarea> - Uma caixa de texto maior para comentários por exemplo. 
+Tag <button> - Para criar botões.
+
+<button type="submit" /> - para ter função de envio.
+<button type="reset" /> - para ter função de resetar.
